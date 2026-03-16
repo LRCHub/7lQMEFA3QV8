@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "There's Nothing Holdin' Me Back",
   "base_artist": "ショーン・メンデス",
-  "createdAt": "2026-02-10T13:08:56.309609Z",
+  "createdAt": "2026-03-16T19:50:45.428017Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,30 +99,6 @@
       "artist": "Sing",
       "has_synced": false,
       "path": "select/12_There's_Nothing_Holdin'_Me_Back_Sing.txt"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "There's Nothing Holdin' Me Back",
-      "artist": "Shawn Mendes",
-      "has_synced": true,
-      "path": "select/13_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Theres Nothing Holdin Me Back",
-      "artist": "Shawn Mendes",
-      "has_synced": true,
-      "path": "select/14_Theres_Nothing_Holdin_Me_Back_Shawn_Mendes.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "There's Nothing Holdin' Me Back",
-      "artist": "Shawn Mendes",
-      "has_synced": true,
-      "path": "select/15_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
     },
     {
       "id": "petitlyrics_1",
